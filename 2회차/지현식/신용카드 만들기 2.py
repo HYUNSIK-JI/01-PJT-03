@@ -1,3 +1,6 @@
+# import sys
+# sys.stdin = open("_신용카드만들기2.txt")
+
 # 스타트 번호로 들어가야할 번호들
 start_card_numbers = ["3", "4", "5", "6", "9"]
 for test_case in range(1, int(input()) + 1):

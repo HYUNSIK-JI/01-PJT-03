@@ -1,3 +1,6 @@
+# import sys
+# sys.stdin = open("_신용카드만들기1.txt")
+
 for test_case in range(1, int(input()) + 1):
     # index의 짝 홀을 더 명확하게 구분 짓게 위해 맨 앞에 0을 추가 하면서 신용카드 번호를 받음
     numbers = [0] + list(map(int , input().split()))

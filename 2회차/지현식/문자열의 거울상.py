@@ -1,3 +1,6 @@
+# import sys
+# sys.stdin = open("_문자열의거울상.txt")
+
 for test_case in range(1, int(input()) + 1):
     word = input()
 

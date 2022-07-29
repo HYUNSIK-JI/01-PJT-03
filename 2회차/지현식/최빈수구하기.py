@@ -1,3 +1,5 @@
+# import sys
+# sys.stdin = open("_최빈수구하기.txt")
 # 최대로 많이 나온 숫자들 카운트 하는 함수 Counter 함수를 collections 패키지에서 가지고오기
 from collections import Counter
 

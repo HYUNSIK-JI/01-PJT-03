@@ -1,3 +1,6 @@
+# import sys
+# sys.stdin = open("_암호문1.txt")
+
 for test_case in range(1, 11):
     # 원본 암호문의 길이
     cip_len = int(input())

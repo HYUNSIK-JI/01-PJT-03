@@ -1,3 +1,6 @@
+# import sys
+# sys.stdin = open("_직사각형길이찾기.txt")
+
 for test_case in range(1, int(input()) + 1):
     a, b, c = map(int,input().split())
 
